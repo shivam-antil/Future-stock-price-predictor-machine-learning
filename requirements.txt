@@ -4,3 +4,11 @@ streamlit
 yfinance
 pandas-datareader
 prophet
+tensorflow 
+pandas 
+numpy 
+keras.models 
+load_model
+keras
+matplotlib.pyplot
+matplotlib
